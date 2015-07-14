@@ -1,0 +1,10 @@
+Choose one %%same-context%% from your discard pile and put it in your hand.
+All opponents with any %%antonym%% must choose and discard a card.
+Destroy one card.
+Draw two cards.
+Gain two points.
+Ongoing: Your maximum hand size is increased by one.
+Ongoing: Your maximum table size is increased by one.
+Spend two %%same-context%%: an opponent loses two points.
+This card cannot be destroyed while it is on the table.
+Spend this card: Cancel one %%same-context%% as it's being played.
