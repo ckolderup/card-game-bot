@@ -99,7 +99,7 @@ Squib::Deck.new(layout: 'hand.yml', cards: words.size, width: 850, height: 1150)
 
   png  x: 325, y: 250, width: 200, height: 200, mask: text_colors, file: words.map { |w| icon_path(w)}
   text x: 75, y: 475,  width: 700, str: words, font: 'Bookman Antique 64', align: :center, color: text_colors
-  text x: 75, y: 750,  width: 700, height: 175, str: rules_texts, font: 'Helvetica Neue 28', align: :center, color: text_colors
+  text x: 125, y: 750,  width: 600, height: 175, str: rules_texts, font: 'Helvetica Neue 28', align: :center, color: text_colors
 
   save_png
   hand
